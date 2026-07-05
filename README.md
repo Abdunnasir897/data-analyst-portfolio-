@@ -1,16 +1,17 @@
 # Data Analyst Portfolio
 
-## About Me
-Data Analyst with professional experience transforming raw data into actionable business insights. Strong expertise in **Excel dashboards**, SQL, Python, and visualization tools. 
+## About
+Data Analyst with professional experience transforming raw data into actionable business insights. Strong expertise in 
+Excel dashboards, SQL, Python, and visualization tools. 
 
 **Key Skills**:
 - Advanced Excel (Power Query, PivotTables, Dashboard)
-- SQL (Complex queries, Window functions)
-- Python (pandas, Matplotlib/Seaborn)
+- SQL
+- Python
 - Power BI
 - Data Cleaning & Business Intelligence
 
-**Connect**: nabangiabdunnasir@gmail.com |https://www.linkedin.com/in/nabangi-abdunnasir-8084623a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**Connect**: nabangiabdunnasir@gmail.com | https://www.linkedin.com/in/nabangi-abdunnasir-8084623a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
